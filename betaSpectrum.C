@@ -1,5 +1,5 @@
 /*
- This is the beta spectrum of the tritium for the energy and omentum 
+ This is the beta spectrum of the tritium for the energy and momentum 
  written by Madan K. Sharma Timalsina for the Experiment and particle 
  physics (PHY739) course by Dr. Juergen Reichenbacher. Here I used the 
  Fermigolden rule to find the expression for the energy and moomentum.
